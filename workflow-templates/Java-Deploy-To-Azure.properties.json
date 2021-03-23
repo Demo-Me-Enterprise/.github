@@ -1,0 +1,11 @@
+{
+    "name": "Java-Deploy-To-Azure",
+    "description": "Start Workflow template to deploy Java to App Service",
+    "iconName": "standard-chartered",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "pom.xml",
+    ]
+}
