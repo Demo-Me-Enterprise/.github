@@ -4,8 +4,5 @@
     "iconName": "standard-chartered",
     "categories": [
         "Java"
-    ],
-    "filePatterns": [
-        "pom.xml",
     ]
 }
