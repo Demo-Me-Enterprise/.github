@@ -1,7 +1,6 @@
 {
     "name": "NodeJS-Deploy-To-Azure",
     "description": "Start Workflow template to deploy NodeJS to App Service",
-    "iconName": "standard-chartered",
     "categories": [
         "Javascript"
     ]
