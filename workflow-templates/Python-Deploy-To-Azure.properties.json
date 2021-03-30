@@ -1,7 +1,6 @@
 {
     "name": "Python-Deploy-To-Azure",
     "description": "Start Workflow template to deploy Python to App Service",
-    "iconName": "standard-chartered",
     "categories": [
         "Python"
     ]
