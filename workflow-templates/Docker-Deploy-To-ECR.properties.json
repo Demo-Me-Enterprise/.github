@@ -1,0 +1,7 @@
+{
+    "name": "Docker-Deploy-To-ECR",
+    "description": "Start Workflow template to deploy Docker to ECR",
+    "categories": [
+        "DockerFile"
+    ]
+}
